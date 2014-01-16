@@ -255,3 +255,7 @@ Running the full test suite will require [RVM](http://rvm.beginrescueend.com)
 * [Capybara](http://jnicklas.github.com/capybara/)     -- Don't handcode webdriver commands.
 * [SauceWhisk](https://github.com/DylanLacey/sauce_whisk)     -- Ruby REST API Wrapper for the Sauce API.  Fresh New Minty Flavour!
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/imurchie/sauce_ruby/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
